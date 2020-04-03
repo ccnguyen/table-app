@@ -1,5 +1,4 @@
 Babel==2.7.0
-backcall==0.1.0
 backports.functools-lru-cache==1.5
 backports.os==0.1.1
 backports.shutil-get-terminal-size==1.0.0
