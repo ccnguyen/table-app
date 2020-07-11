@@ -6,7 +6,7 @@ backports.tempfile==1.0
 backports.weakref==1.0.post1
 Bottleneck==1.2.1
 dj-database-url==0.5.0
-Django==3.0.4
+Django==3.0.7
 django-heroku==0.3.1
 Flask==1.1.2
 Flask-API==2.0
